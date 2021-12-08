@@ -1,0 +1,26 @@
+{
+  "name": "coding-challenge-sc",
+  "version": "1.0.0",
+  "description": "Coding challenge for hiring Smart Contract developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theia-Protocol/coding-challenge-sc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theia-Protocol/coding-challenge-sc/issues"
+  },
+  "homepage": "https://github.com/Theia-Protocol/coding-challenge-sc#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@openzeppelin/contracts": "^4.4.0",
+    "chai": "^4.3.4",
+    "hardhat": "^2.7.0"
+  }
+}
